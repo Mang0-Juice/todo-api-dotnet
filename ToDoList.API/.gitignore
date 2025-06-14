@@ -1,0 +1,44 @@
+# Build
+bin/
+obj/
+out/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vscode/
+*.psess
+*.vsp
+*.vsmdi
+*.testsettings
+*.tmh
+*.cache
+*.dbmdl
+
+# SQLite database file
+*.db
+*.db-journal
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+# EF Core Migrations
+**/Migrations/*.Designer.cs
+**/Migrations/*Snapshot.cs
+
+# Publish output
+publish/
