@@ -1,6 +1,6 @@
 # 📝 ToDo List API - ASP.NET Core
 
-Esta é uma API RESTful de gerenciamento de tarefas desenvolvida com ASP.NET Core 8, Entity Framework Core e autenticação JWT.
+Esta é uma API RESTful de gerenciamento de tarefas desenvolvida com ASP.NET Core 9, Entity Framework Core e autenticação JWT.
 
 ## 🔐 Funcionalidades
 
@@ -14,7 +14,7 @@ Esta é uma API RESTful de gerenciamento de tarefas desenvolvida com ASP.NET Cor
 
 ## 📂 Tecnologias
 
-- ASP.NET Core 8
+- ASP.NET Core 9
 - Entity Framework Core
 - AutoMapper
 - JWT Authentication
