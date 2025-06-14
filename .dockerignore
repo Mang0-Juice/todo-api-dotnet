@@ -1,5 +1,5 @@
 # Ignore Dockerfile and docker-compose files
-*.dockerignore
+**/.dockerignore
 **/.classpath
 **/.env
 **/.git
