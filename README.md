@@ -81,4 +81,4 @@ Versão em produção hospedada no [Railway](https://railway.app/) (link em brev
 
 Este projeto foi desenvolvido como parte do meu portfólio para aprendizado e demonstração de conhecimento em .NET backend.
 
-Desenvolvido por [Kaio Mendes da Costa](https://github.com/Mango-Soda).
+Desenvolvido por [Kaio Mendes da Costa](https://github.com/Mang0-Juic3).
